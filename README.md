@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started: --!>
 
-- 🌱 I’m currently learning data science
-- 📫 How to reach me: mdumarkkhan.1207@gmail.com
+- 🌱 I’m currently learning data science <br>
+- 📫 How to reach me: mdumarkhan.1207@gmail.com
