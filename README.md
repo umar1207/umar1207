@@ -1,5 +1,4 @@
-### Hi there 👋
-<br>
+### Hi there 👋 
 ### Umar this side
 
 - 🌱 I’m currently learning data science <br>
