@@ -1,5 +1,5 @@
 ### Hi there 👋 
 ### Umar this side
   
-- 🌱 I’m currently learning data science <br>
+- 🌱 Passionate about web development with a geek for machine learning <br>
 - 📫 How to reach me: mdumarkhan.1207@gmail.com
