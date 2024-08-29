@@ -4,4 +4,7 @@
 - 🌱 Passionate about software development with a geek for machine learning <br>
 - 📫 How to reach me: mdumarkhan.1207@gmail.com
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umar1207&show_icons=true&locale=en" alt="umar1207" /></p>
+<div align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=umar1207&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar1207&layout=compact&theme=radical" width="350" height="250" ></a>
+</div>
