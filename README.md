@@ -1,10 +1,10 @@
 ### Hi there 👋  
 ### Umar this side
 
-- 🚀 Software Developer passionate about **Machine Learning**, specializing in **NLP**, **Retrieval-Augmented Generation (RAG)**, and **information groundedness**  
-- 🔭 I love building **AI-powered tools**, multi-agent systems, and production-ready full-stack applications  
-- 🌱 Exploring **advanced retrieval**, **vector databases**, **LLM reasoning**, and **autonomous agents**  
-- 📫 Reach me at: **mdumarkhan.1207@gmail.com**
+- Software Developer passionate about **Machine Learning**, specializing in **NLP**, **Retrieval-Augmented Generation (RAG)**, and **information groundedness**  
+- I love building **AI-powered tools**, multi-agent systems, and production-ready full-stack applications  
+- Exploring **advanced retrieval**, **vector databases**, **LLM reasoning**, and **autonomous agents**  
+- Reach me at: **mdumarkhan.1207@gmail.com**
 
 <div align="center">
   <a href="#">
